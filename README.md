@@ -6,7 +6,6 @@
 
 - `frontend/` - React + Vite + Vitest (ส่วนแสดงผลให้ผู้ใช้งาน)
 - `backend/` - Node.js + Express (จัดการ API และฐานข้อมูล)
-- `.vscode/` - ไฟล์การตั้งค่า VSCode (ถ้ามี)
 
 ## ⚙️ เทคโนโลยีที่ใช้
 
